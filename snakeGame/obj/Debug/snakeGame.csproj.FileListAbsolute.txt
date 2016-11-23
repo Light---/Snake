@@ -1,0 +1,5 @@
+C:\Users\emma\Documents\GitHub\snakeGame\snakeGame\obj\Debug\snakeGame.csprojResolveAssemblyReference.cache
+C:\Users\emma\Documents\GitHub\snakeGame\snakeGame\obj\Debug\snakeGame.frm_outside.resources
+C:\Users\emma\Documents\GitHub\snakeGame\snakeGame\obj\Debug\snakeGame.Properties.Resources.resources
+C:\Users\emma\Documents\GitHub\snakeGame\snakeGame\obj\Debug\snakeGame.csproj.GenerateResource.Cache
+C:\Users\emma\Documents\GitHub\snakeGame\snakeGame\obj\Debug\snakeGame.Form1.resources
